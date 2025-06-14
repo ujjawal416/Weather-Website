@@ -8,7 +8,7 @@ Welcome to the Weather App repository! This project is a web application that pr
 - **5 Days Forecast**: You Can See your city 5 days forecast 
 - **Explore Section**: You Can See Many Random City Weather On Explore Section
 - **Add More Citys**: You Can Add More Citys
-- 
+
 ### Usage
 
 To use the Weather App, simply enter the name of the city in the search bar and press enter. The app will display the current weather conditions, including temperature, humidity, wind speed, and more.
